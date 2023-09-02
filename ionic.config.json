@@ -1,0 +1,7 @@
+{
+  "name": "ppsPrueba2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
